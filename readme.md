@@ -104,8 +104,6 @@ kubectl get svc -n monitoring
 
 ![Running Pods](screenshots/pods.png)
 
-![Services](screenshots/services.png)
-
 ---
 
 ## Accessing the Applications
